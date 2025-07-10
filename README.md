@@ -1,2 +1,2 @@
 # monkey-interpreter
-Monkey interpreter form "Writing An Interpreter In Go" by Thorsten Ball
+Monkey interpreter from "Writing An Interpreter In Go" by Thorsten Ball
